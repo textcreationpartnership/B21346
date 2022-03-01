@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon against false weights &amp; balances preach'd at Sheffield, January the 10th, 1696/7. By Nath. Drake, M.A. and vicar there.</title>
+            <author>Drake, Nathan, 1659 or 60-1729.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21346</idno>
+            <idno type="STC">Wing D2127</idno>
+            <idno type="EEBO-CITATION">99825456</idno>
+            <idno type="PROQUEST">99825456</idno>
+            <idno type="VID">206839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon against false weights &amp; balances preach'd at Sheffield, January the 10th, 1696/7. By Nath. Drake, M.A. and vicar there.</title>
+                  <author>Drake, Nathan, 1659 or 60-1729.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Onley, for A. Bosvile, at the Dial, against St. Dunstan's Church, in Fleet-street; and N. Simmons, bookseller, in Sheffield, Yorkshire,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The just balance.</note>
+                  <note>Reproduction of the Trinity College Library, University of Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  England --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206839:1"/>
+            <pb facs="tcp:206839:1" rendition="simple:additions"/>
+            <p>A SERMON Againſt Falſe <hi>Weights &amp; Balances;</hi> Preach'd at SHEFFIELD, <hi>JAN<g ref="char:V">Ʋ</g>ARY</hi> the 10th, 1696/7. BY <hi>NATH. DRAKE,</hi> M. A. and VICAR there.</p>
+            <q>—<hi>Suum regit Omnia pondus.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>W. Onley,</hi> for <hi>A. Boſvile,</hi> at the Dial, againſt St. <hi>Dunſtan</hi>'s Church, in <hi>Fleet-ſtreet;</hi> and <hi>N. Simmons,</hi> Bookſeller, in <hi>Sheffield, Yorkſhire,</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:206839:2"/>
+            <pb facs="tcp:206839:2"/>
+            <head>TO THE Gentlemen, and Others, Inha<g ref="char:EOLhyphen"/>bitants, within the Town and Pariſh of <hi>Sheffield,</hi> my Belo<g ref="char:EOLhyphen"/>ved Pariſhioners.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>SEeing at last you have taken ſuch an <hi>ef<g ref="char:EOLhyphen"/>fectual Courſe</hi> to oblige me to com<g ref="char:EOLhyphen"/>ply with your Requeſts, in making this Sermon public; (which was the far<g ref="char:EOLhyphen"/>thest thing from my Thoughts, when I pen'd and preach'd it,) I am ſorry that I reſiſted your Importunities ſo long, becauſe, That which at first chiefly commended this Diſcourſe, I mean the <hi>Seaſonableneſs</hi> of it, is much worn off ſince it was deliver'd.</p>
+            <p>Not but that the Subject of it, <hi>Commu<g ref="char:EOLhyphen"/>tative Juſtice,</hi> will ever be Seaſonable, and the just <hi>Balance</hi> always in Faſhion, but the ill <hi>Occaſion</hi> which has of late ſo buſily em<g ref="char:EOLhyphen"/>ploy'd
+<pb facs="tcp:206839:3"/>it, and ſo foully corrupted it, is now de<g ref="char:EOLhyphen"/>clining and far ſpent.</p>
+            <p>It is well for us that it is ſo; for we have labour'd too long under the mortifying Effects of <hi>Corrupt Practices,</hi> thoſe eſpecially relating to the <hi>Coin,</hi> and the <hi>Balance.</hi>
+            </p>
+            <p>To prevent, and put a ſtop to the growing Corruptions of this latter, was the Deſign of this Compoſure; and, I thank God, I had my End in Preaching it, beyond what I cou'd hope for: I wiſh you may have yours in Publiſhing it, <hi>viz.</hi> that it may be an acceptable <hi>Moni<g ref="char:EOLhyphen"/>tor</hi> to all Tradeſmen, that it may excite them effectually to Reſist the Impulſe of Covetous Af<g ref="char:EOLhyphen"/>fections, <hi>That the treacherous Dealer may deal no more Treacherouſly,</hi> nor the <hi>Land tremble and mourn</hi> for Fraud and Oppreſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>What Occaſion there is, and of late has been for Diſcourſes of this Nature, I need not ſay; nor wou'd I ſeem to lay this as a particular In<g ref="char:EOLhyphen"/>dictment against this Pariſh. The kind Enter<g ref="char:EOLhyphen"/>tainment that this plain Sermon has generally
+<pb facs="tcp:206839:3"/>found among you, purely for the ſake of <hi>Juſtice,</hi> is an evident Proof of your Love of that Vertue.</p>
+            <p>I am bound to thank you for the exceeding Good-will with which you receiv'd it, and for your Reſpect and Kindneſs, which I know you intended me, in your repeated Wiſhes that it might be made Public: But indeed you have no reaſon to thank me for my <hi>forced Obe<g ref="char:EOLhyphen"/>dience.</hi>
+            </p>
+            <p>I ſhall ever readily obey you in any Inſtance relating to my <hi>Calling,</hi> and limited within my <hi>Compaſs,</hi> but when you wou'd oblige me to launch out beyond my <hi>Bounds,</hi> and incur the Hazard of <hi>public Cenſure,</hi> you must give me leave to diſpute your Commands. I am not ſo well aſſur'd of the Charitable Conſtruction of Others, as I am of Yours.</p>
+            <p>However, You ſtand hereby engaged to be ac<g ref="char:EOLhyphen"/>countable for this Adventure: And, for my part, I ſhall concern myſelf no further then to accom<g ref="char:EOLhyphen"/>pany it with my Prayers, that it may have the ſame good Effect upon others that it had upon you, and in all Temptations be a <hi>Remembran<g ref="char:EOLhyphen"/>cer</hi>
+               <pb facs="tcp:206839:4" rendition="simple:additions"/>to you of the Sacred Rules and Meaſures of Juſtice.</p>
+            <p>And now, my Brethren, may the Bleſſing of God upon your just Dealing, make, or rather continue, you a proſperous People; and may all your Kindneſs to me find its Reward in the hap<g ref="char:EOLhyphen"/>py Succeſs of the Miniſtry of,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>
+                  <hi>Your Obliged, and Faithful Serv<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> N. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:206839:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. XVI. xi.</hi>
+                  </bibl>
+                  <p>A Just Weight and Balance are the Lord's; all the Weights of the Bag are his Work.</p>
+               </q>
+            </epigraph>
+            <p>I Dare ſo far pretend, my Brethren, to be a Judge of your Thoughts, as to aſſure my ſelf, that upon the very naming of this Text, you all look upon it as a <hi>Word in Seaſon,</hi> ſuited as well to the <hi>Place</hi> as <hi>Time</hi> wherein we live.</p>
+            <p>Indeed Commutative Juſtice, or Honeſt Deal<g ref="char:EOLhyphen"/>ing 'twixt Man and Man, is a Subject always ſea<g ref="char:EOLhyphen"/>ſonable, becauſe the thing is always neceſſary; but it is much more ſo in ſuch a critical Juncture as this, when by the many Difficulties under which the preſent Government labours, ſuch Ad<g ref="char:EOLhyphen"/>vantages are given to Deſigning Perſons, and ſuch Temptations are laid before all <hi>Men,</hi> of more <hi>Dex<g ref="char:EOLhyphen"/>terity</hi> than <hi>Honeſty,</hi> to deceive and defraud under the <hi>Colour</hi> of <hi>Juſtice.</hi>
+            </p>
+            <p>The Tempting Advantages, I mean, are chie<g ref="char:EOLhyphen"/>fly ſuch as relate to that noted Inſtrument of Ju<g ref="char:EOLhyphen"/>ſtice, the <hi>Balance;</hi> the uſe of which has been cor<g ref="char:EOLhyphen"/>rupted by ill Practiſers in all times.</p>
+            <p>But ſure Opportunities for ſuch Corruptions were never more than at this time, when, be<g ref="char:EOLhyphen"/>ſides common Wares and Merchandize, That which <hi>anſwers them all</hi> is brought to the Standard,
+<pb n="8" facs="tcp:206839:5"/>I mean Money itſelf, comes to be <hi>bought</hi> and <hi>ſold</hi> by Weight, and that at different Rates.</p>
+            <p>Upon this Account it is as much in every trading Man's power, if he be charitably inclin'd, to fa<g ref="char:EOLhyphen"/>vour the poor Man, without any damage to him<g ref="char:EOLhyphen"/>ſelf, as it is to cozen and over-reach him, if he be a deceitful Dealer. I do not mean, that any Man is bound to take the poor Man's Money to his own loſs; but ſurely both Juſtice and Chari<g ref="char:EOLhyphen"/>ty oblige us to make allowance to the utmoſt Far<g ref="char:EOLhyphen"/>thing that we can with ſafety, leſt by taking ad<g ref="char:EOLhyphen"/>vantage of his Neceſſity, we cauſe <hi>Complaining in our Streets.</hi>
+            </p>
+            <p>Let it not be therefore thought an improper Undertaking, if from the Pulpit I a little inſpect your Weights and Balance, and interpoſe ſome pious Caution and impartial Advice in a Point wherein both Charity and Juſtice are concern'd.</p>
+            <p>I look upon it as the Duty of every Faithful Miniſter to be particularly watchful againſt <hi>Public Temptations,</hi> and preſerve as many as he can from Sin and Danger; as alſo to plead for the Poor and Needy in the <hi>Day of Evil.</hi>
+            </p>
+            <p>Now when we hear the Poor complain that they ſcarce receive Juſtice, where they expect Chari<g ref="char:EOLhyphen"/>ty; and on the other hand conſider, that Tem<g ref="char:EOLhyphen"/>ptations to this ſort of Fraud infect moſt in ſuch populous trading Towns as this; I cannot think a Diſcourſe of this Nature (tho' unuſual) to be ei<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:206839:5"/>improper or unſeaſonable; and therefore ſhall make no further Apology, ſave that to prevent Cenſure, I deſire to enter this ſerious Proteſtati<g ref="char:EOLhyphen"/>on, that I undertake this Argument upon a truly honeſt, religious, and charitable Deſign, without any reflection upon particular perſons.</p>
+            <p>And as <hi>Solomon</hi> was a Faithful <hi>Monitor</hi> to his People in this matter, (as we find by many re<g ref="char:EOLhyphen"/>peated Cautions in this Book,) ſo I ſhall only re<g ref="char:EOLhyphen"/>preſent to you the Reaſons that we have to attend to thoſe wiſe and juſt Obſervations, and particu<g ref="char:EOLhyphen"/>larly improve theſe remarkable Words, <hi>A just Weight and Balance are the Lord's, all the Weights of the Bag are his Work.</hi>
+            </p>
+            <p>
+               <hi>Juſtice</hi> is a Natural principle, and the meaſure of it is, <hi>to do to others, as we would have done to our ſelves.</hi>
+            </p>
+            <p>This Juſtice is either Commutative, or Diſtri<g ref="char:EOLhyphen"/>butive.</p>
+            <p>Diſtributive Juſtice conſiſts in rendring to all ſuch Dues, as without any expreſs compact or a<g ref="char:EOLhyphen"/>greement, may be challeng'd by right of a Divine Command, by the Laws of Nature or Religion, or the civil Conſtitution; ſuch are, Tribute, Ho<g ref="char:EOLhyphen"/>nour, Impoſitions, Tyths, Cuſtoms, <hi>&amp;c.</hi>
+            </p>
+            <p>Commutative Juſtice ſuppoſes a mutual Con<g ref="char:EOLhyphen"/>tract and Exchange of things profitable, and re<g ref="char:EOLhyphen"/>quires ſimplicity in Bargaining, and faithfulneſs in performing Covenants. The former reſpects
+<pb n="4" facs="tcp:206839:6"/>chiefly the Dignity of Perſons, this latter the E<g ref="char:EOLhyphen"/>quality of Things.</p>
+            <p>The common Inſtruments of this ſort of Juſtice, are <hi>Weights</hi> and <hi>Meaſures,</hi> the uſe of which was introduced by natural Reaſon and Neceſſity.</p>
+            <p>Commerce and Traffick became neceſſary, as ſoon as Mankind became multiply'd and divided into Colonies. For God in his wiſe and good Providence has ſo ordered, that there is no con<g ref="char:EOLhyphen"/>dition of Life, wherein one does not ſtand in need of another, whether we reſpect private Families, Communities, or Kingdoms: And this for the preſervation of Society, and to promote and ſpread abroad Love and Friendſhip over the Face of the Earth.</p>
+            <p>Now it is not eaſie to imagine how this neceſſa<g ref="char:EOLhyphen"/>ry Commerce could be effected, without theſe In<g ref="char:EOLhyphen"/>ſtruments of Juſtice, Weights and Meaſures.</p>
+            <p>Neither is it material to enquire when and by whom they were invented, ſeeing we are ſure they are as old as <hi>Traffick</hi> in the World.</p>
+            <p>And indeed Authors diſagree much in this point; as <hi>Polydore Virgil</hi> has obſerved, from whoſe account we can only gather thus much, that ſome Nations invented them before others.</p>
+            <p>
+               <hi>Diogenes Laortius</hi> affirms,
+<note place="margin">
+                  <hi>Lib.</hi> 9. <hi>Antiq.</hi>
+               </note> That <hi>Pythagoras</hi> firſt invented them, for the Grecians; and <hi>Joſephus</hi> tells us, that it is credible, That <hi>Cain,</hi> the Son of
+<pb n="5" facs="tcp:206839:6"/>
+               <hi>Adam</hi> firſt eſtabliſh'd the uſe of them; but there are no Footſteps of this in Scripture.</p>
+            <p>There ſeems to me to be more ground for a Con<g ref="char:EOLhyphen"/>jecture, That <hi>Tubal Cain,</hi> the Son of <hi>Lamech,</hi> con<g ref="char:EOLhyphen"/>trived theſe and the like Inſtruments, ſeeing he is recorded for an <hi>Inſtructor of every Artificer in Braſs and Iron,</hi> Gen. 4.22. Him <hi>Voſſius</hi> takes to be the ſame with <hi>Vulcan.</hi>
+            </p>
+            <p>But as to that particular Inſtrument, The <hi>Ba<g ref="char:EOLhyphen"/>lance,</hi> The firſt Invention of it is by the Heathens, attributed to <hi>Aſtrea,</hi> who is therefore deified for the Goddeſs of Juſtice, and her Balance is advan<g ref="char:EOLhyphen"/>ced among the Celeſtial Signs, to denote the ex<g ref="char:EOLhyphen"/>treme Value of this Invention, and the ſacred Regard they had to the uſe of it.</p>
+            <p>But now, if the Balance and Weights be of <hi>hu<g ref="char:EOLhyphen"/>mane Invention,</hi> how will this Proverb of <hi>Solomon</hi>'s be accounted for, which plainly aſcribes 'em to <hi>Divine Inſtitution, A just Weight and Balance are the Lord's?</hi>
+            </p>
+            <p>By which we are not only to underſtand that the Lord approves of 'em, and requires 'em in all our Dealings of Traffique with one another. But that he claims this Ordinance of Juſtice as his own Inſtitution, intimating, that his over-ruling Hand was imployed in the Workmanſhip of all and every of theſe Inſtruments. <hi>All the Weights of the Bag are his Work.</hi>
+            </p>
+            <p>This ſeeming difference is eaſily made up, For
+<pb n="6" facs="tcp:206839:7" rendition="simple:additions"/>(as Dr. <hi>Taylor</hi> obſerves) <q rend="inline">Tho' this part of Juſtice depends upon the Laws of Man directly, and takes its Eſtimate and Meaſures from civil Sancti<g ref="char:EOLhyphen"/>ons, and private Agreements; yet it is built upon the Laws of God by plain Conſequence, and undeniable Inference, as I ſhall undertake to prove from three Topicks:</q>
+            </p>
+            <p>
+               <hi>First,</hi> From the Law of Nature.</p>
+            <p>
+               <hi>Secondly,</hi> From the Revealed Laws of God.</p>
+            <p>
+               <hi>Thirdly,</hi> From the Eſtabliſhed Laws of his Vice<g ref="char:EOLhyphen"/>gerent, eſtabliſhed in this Kingdom.</p>
+            <p>
+               <hi>First,</hi> If we examin the Law of Nature, we ſhall ſoon find that all the Inſtruments of juſt Deal<g ref="char:EOLhyphen"/>ing are ultimately reſolved into God's Workman<g ref="char:EOLhyphen"/>ſhip: For, who taught the firſt Inventers of them, this uſeful Art? Who imparted to them this Skill in Geometry? Who guided the Workman's Ham<g ref="char:EOLhyphen"/>mer? Who gave Men that Natural Sagacity to find out the critical Rules of Proportion? Who but the God of Nature? Who but that Omniſci<g ref="char:EOLhyphen"/>ent Workman, who writ his firſt Law, the Law of Nature, in the Hearts and Minds of all his Ser<g ref="char:EOLhyphen"/>vants?</p>
+            <p>This Natural Principle furniſh'd Men with com<g ref="char:EOLhyphen"/>mon Rules of Juſtice, as is evident from the Mo<g ref="char:EOLhyphen"/>ral Precepts and Practice of the Heathens.</p>
+            <p>
+               <hi>Commerce,</hi> ſays <hi>Tully</hi> in his excellent Book of Offices, <hi>conſiſts in buying and ſelling, hiring and let<g ref="char:EOLhyphen"/>ting, and exchanging Commodities; but there can
+<pb n="7" facs="tcp:206839:7"/>be none of this Dealing,</hi> ſays he, <hi>without Juſtice.</hi>
+               <note place="margin">
+                  <hi>Offic. Lib.</hi> 2.</note>
+            </p>
+            <p>And therefore in another place he condemns it as a pernicious Error, <q rend="inline">That they had a cunning artificial ſort of People, in great admiration, misſtaking Craft for Wiſdom.</q>
+            </p>
+            <p>And that the like fraudulent Abuſes of this Di<g ref="char:EOLhyphen"/>vine Inſtitution were practiſed in former Ages, we learn from the Teſtimony, which <hi>Ariſtotle</hi> gives of the Merchants in his time. — <q rend="inline">For the remedying of which Abuſes, the Ancients did appoint divers Officers, call'd <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Wilkins.</note> who were to overlook the common Meaſures of Juſtice.</q>
+            </p>
+            <p>So ſacred a Regard had thoſe Moraliſts for this piece of Natural Religion, that they worſhip'd Juſtice for a <hi>Goddeſs,</hi> complaining that ſhe had left the Earth, and was retired in Heaven, from whence ſhe came, leaving only her <hi>Scales,</hi> as I hinted be<g ref="char:EOLhyphen"/>fore, within our ſight in the <hi>Zodiac,</hi> as a ſign that our Dealings with Men ſhould be equally divided as the Globe is with the Equinoctial Line,
+<note place="margin">Lucan.</note> 
+               <hi>adjuſtae pondera Librae.</hi>
+            </p>
+            <p>Thus Nature it ſelf directs us to Heaven for the Author of the Balance, as <hi>Virgil</hi> ſings:</p>
+            <q>
+               <l>Jupiter <hi>ipſe duas aequato examine Lances</hi>
+               </l>
+               <l>
+                  <hi>Suſtinet.</hi>—</l>
+            </q>
+            <p>Intimating that the Righteous God weighs all the Actions of Mortals, as in the Scales of Juſtice, whence the Poets ſtile him <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the High and Heavenly Holder of the Balance.</p>
+            <pb n="8" facs="tcp:206839:8"/>
+            <p>Such Honour and Reverence do the Diſciples of Nature pay to the Balance, as the nobleſt of all Mechanical Inſtruments, and worthy of a <hi>Di<g ref="char:EOLhyphen"/>vine Author.</hi> But,</p>
+            <p>
+               <hi>Secondly, A just Weight and Balance are the Lord's,</hi> by the Laws of <hi>Reveal'd,</hi> as well as <hi>Natural</hi> Reli<g ref="char:EOLhyphen"/>gion. — The Divine Inſtitution of this Ordinance of Juſtice, is frequently repeated in the Old Teſta<g ref="char:EOLhyphen"/>ment, and confirm'd by general Rules of Righte<g ref="char:EOLhyphen"/>ouſneſs, laid down in the New.</p>
+            <p>
+               <hi>First,</hi> Hear the Voice of the Lord, in the Law given by <hi>Moſes, Ye ſhall do no <g ref="char:V">Ʋ</g>nrighteouſneſs, in Judgment,</hi>
+               <note place="margin">
+                  <hi>Lev.</hi> 19.35.</note> 
+               <hi>in Meteyard, in Weight, or in Meaſure. Just Balances, just Weights, a just Ephah, and a just Hin ſhall ye have; I am the Lord your God.</hi> Ob<g ref="char:EOLhyphen"/>ſerve that ſolemn Confirmation, IAM THE LORD. He ſtamps the Mark of his Royal Authority upon them.</p>
+            <p>Again, This Law is enforced by a promiſed Bleſſing, and the contrary Practice prohibited un<g ref="char:EOLhyphen"/>der pain of an heavy Curſe,
+<note place="margin">
+                  <hi>Deut.</hi> 25.13.</note> 
+               <hi>Thou ſhalt not have in thy Bag divers Weights,</hi> or (as it is in the Ori<g ref="char:EOLhyphen"/>ginal) <hi>a Stone and a Stone, a great and a ſmall, i.e.</hi> the greater to Buy with, and the leſſer for Selling, or the one for public <hi>Shew,</hi> and the other for pri<g ref="char:EOLhyphen"/>vate <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Likewiſe, <hi>Thou ſhalt not have in thy Houſe divers Meaſures, a great and a ſmall; but thou ſhalt have a perfect and a just Weight; a perfect and a just Meaſure ſhalt thou have, that thy Days may
+<pb n="9" facs="tcp:206839:8"/>be lengthened in the Land, which the Lord thy God giveth thee; For all that do ſuch things,</hi> that is, do falſify Weights and Meaſures, <hi>are an abomina<g ref="char:EOLhyphen"/>tion unto the Lord thy God, i. e.</hi> highly abominable, as the Abſtract ſignifies.</p>
+            <p>Accordingly we find God expreſſing a more than ordinary Diſpleaſure, againſt his own Peo<g ref="char:EOLhyphen"/>ple, for this fradulent Dealing; <hi>Amos</hi> 8.4. <hi>Hear this, O ye that ſwallow up the Needy, even to make the Poor of the Land to fail, Saying, When will the new. Moon be gone, that we may ſell Corn; and the Sabbath, that we may ſet forth Wheat, making the Ephah ſmall, and the Shekel great, and falſifying the Balances by Deceit? The Lord hath ſworn by the Ex<g ref="char:EOLhyphen"/>cellency of</hi> Jacob, <hi>ſurely I will not forget any of theſe Works.</hi>
+            </p>
+            <p>Upon ſo much Reaſon and Divine Authority does this Obſervation ſtand,
+<note place="margin">
+                  <hi>Ezek.</hi> 45.9, 10. <hi>Prov.</hi> 11.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 20.10.</note> 
+               <hi>A just Weight and Balance are the Lord's.</hi> God ſeems to have <hi>conſe<g ref="char:EOLhyphen"/>crated</hi> them, by theſe and ſeveral other Divine Sentences that we meet with in the <hi>Old Teſtament,</hi> thereby to raiſe in us a Reverence in the Uſe of them.</p>
+            <p>And in the <hi>New,</hi> the Law of the Lord of Righ<g ref="char:EOLhyphen"/>teouſneſs is as full, tho' not ſo particular in this Point.— There the Golden Rule is eſtabliſht, <hi>To do to all Men, as we would have done to us;</hi> i. e. So to deal with every Man, as if we had exchan<g ref="char:EOLhyphen"/>ged Perſons with him, and he were in our place, and we in his.</p>
+            <pb n="10" facs="tcp:206839:9"/>
+            <p>Again, Our Lord, in reckoning up the Duties of Juſtice, beſides the Commandment, <hi>Do not Steal,</hi> he adds, <hi>Defraud not;</hi> thereby expreſsly forbidding this ſecret Theft of abuſing our Brother in buy<g ref="char:EOLhyphen"/>ing, ſelling, <hi>&amp;c.</hi>
+            </p>
+            <p>And the like Inſtructions we have from his A<g ref="char:EOLhyphen"/>poſtles, <hi>to converſe in the World with Simplicity, and godly Sincerity,</hi>
+               <note place="margin">1 <hi>Theſ.</hi> 4.6.</note> 
+               <hi>not to lie one to another, not to go be<g ref="char:EOLhyphen"/>yond or defraud our Brother in any matter; becauſe the Lord is the</hi> Avenger of all ſuch: An Argument charged with Thunder, and Almighty Indignati<g ref="char:EOLhyphen"/>on. And ſo I proceed to the</p>
+            <p>
+               <hi>Third</hi> Topick, From which we prove God's Title to theſe Inſtruments of Juſtice: And that is from the <hi>Laws</hi> of his <hi>Vice-gerent,</hi> The <hi>Statutes</hi> of this Realm.</p>
+            <p>We have many excellent Statutes and Ordinan<g ref="char:EOLhyphen"/>ces about the Weights and Meaſures uſed in this Realm, which ſhew what abundance of Care our Anceſtors have taken to prevent all Cheating and Deceit herein.</p>
+            <p>And for greater ſecurity in this matter, it has been judged abſolutely neceſſary to intruſt our Kings with the care and charge of them, and ac<g ref="char:EOLhyphen"/>cordingly the Royal Standards which muſt regu<g ref="char:EOLhyphen"/>late all others, are kept in the <hi>Exchequer,</hi> (as the <hi>Roman</hi> Standards were in the <hi>Capitol</hi>) by a ſpecial Officer of his Majeſty's Houſhold.</p>
+            <p>Now tho' theſe be Human Laws and Proviſions,
+<pb n="11" facs="tcp:206839:9"/>yet they are made for the better Execution of Di<g ref="char:EOLhyphen"/>vine Laws, and conſequently do confirm God's Title, and aggravate every Tranſgreſſion.</p>
+            <p>It muſt be an high Aggravation to diſſemble both with God and Man, and that perhaps in a matter of very <hi>ſmall moment;</hi> ſo that a Peniworth of unjuſt Gain ſhall often caſt the Scale againſt the weighty Conſiderations of Duty both to God and the King.</p>
+            <p>We ſhould reverently conſider the double Mark and Impreſſion, <hi>viz.</hi> of Divinity and Majeſty, that is ſtampt upon theſe Inſtruments of Juſtice, and that awful Conſideration would make us <hi>render to</hi> Caeſar <hi>the thing that are</hi> Caeſar<hi>'s, and to God the things that are God's,</hi> and raiſe a juſt Hatred in our Minds againſt all <hi>unclean Hands.</hi>
+            </p>
+            <p>But the higheſt Aggravation is to cheat a poor credulous Neighbour under this <hi>ſhew of Juſtice:</hi> To deceive with the <hi>Balances</hi> of Equity, is like <hi>Lying</hi> and <hi>Swearing falſely upon the Goſpels</hi> of <hi>Truth.</hi>— Weights, Balances and Meaſures, whether of <hi>Application</hi> or <hi>Reception,</hi> being autho<g ref="char:EOLhyphen"/>rized by the Royal Signature, become the Peoples Security for Honeſty of Commerce, they are ap<g ref="char:EOLhyphen"/>pointed, as it were, <hi>Judges</hi> to give every Man his Due.</p>
+            <p>He therefore that impoſes upon his Neighbour by Slight of Hand, falſe Weights, or the like, does, in this ſence, corrupt the <hi>King's Judges,</hi> and makes
+<pb n="12" facs="tcp:206839:10"/>Juſtice itſelf a Cloak for his Knavery: <hi>He holds a Lye in his Right-hand;</hi> nay, he lies not to <hi>Man,</hi> but to <hi>God.</hi>
+            </p>
+            <p>He <hi>violates</hi> that juſt Ordinance which God has <hi>conſecrated;</hi> he ſecretly wounds his Prince's Au<g ref="char:EOLhyphen"/>thority, and undermines his Government, by diſ<g ref="char:EOLhyphen"/>ſolving thoſe <hi>ſecret Tyes</hi> of Juſtice, which like Nerves, and other ſinewy Ligaments, bind the Members of the Body Politic together.</p>
+            <p>This Obſervation agrees with the Context and with the Royal Concern, which <hi>Solomon</hi> here ex<g ref="char:EOLhyphen"/>preſſes for Juſt Dealing among his People. He of<g ref="char:EOLhyphen"/>ten repeats his Charge againſt Falſe Weights, to ſhew his Deteſtation of ſuch Practices; and in the Verſe following my Text, declares, That the com<g ref="char:EOLhyphen"/>mitting this Wickedneſs <hi>is an Abomination to Kings, becauſe their Throne is eſtabliſhed in Righteouſneſs.</hi>
+            </p>
+            <p>Thus we have the Royal Honour, and Intereſt, and the Public Faith, (beſide Divine Commands) all engaged for the Security of Trade, and to keep Men from doing and receiving Injuries.</p>
+            <p>And if this be not ſufficient, we may further conſider, the Sacred Regard that the <hi>Jews</hi> had for the Preſervation of Commutative Juſtice from all Abuſe and Falſification in this kind; inſomuch that the Publick Standards and Originals, by which all other Meaſures were to be tryed and allowed, were with much Religion preſerv'd in the <hi>Sanctuary,</hi> the care of them being committed to the Prieſts and
+<pb n="13" facs="tcp:206839:10"/>Levites, whoſe Office it was, among other things, to inſpect all manner of Meaſures and Size.</p>
+            <p>Hence that frequent Expreſſion, <hi>According to the Shekel of the Sanctuary;</hi> which (as the learned Biſhop <hi>Wilkins</hi> obſerves) doth not refer to any Weight diſtinct from, and more than the Vulgar, (as ſome fondly conceive) but only obliges Men in their Dealing and Traffique to make uſe of ſuch Meaſures as were agreeable to the Public Standards that were kept in the Sanctuary.</p>
+            <p>The Sum of all is, — As God hath declared himſelf the Author of Weights and Meaſures, That he is pleaſed in the due Uſe of them, and that the contrary Practice is an Abomination to him: So in all our Dealings with Men, we are to ſet him before us as the Rewarder or Avenger of our Deeds; and accordingly all good Kings and States have enacted or executed Laws for this equal Admini<g ref="char:EOLhyphen"/>ſtration of Private as well as Public Juſtice; know<g ref="char:EOLhyphen"/>ing that thoſe corrupt Practices which are abomi<g ref="char:EOLhyphen"/>nable to God, will ſoon, if not remedied, be de<g ref="char:EOLhyphen"/>ſtructive to Government.</p>
+            <p>Laſtly, There is an <hi>Emphaſis</hi> in the laſt words of the Text, which affords another worthy Conſi<g ref="char:EOLhyphen"/>deration, <hi>All the Weights,</hi> (or Stones,) <hi>in the Bag are his Work.</hi> ALL the Weights, except there be Falſe Ones, which are the Workmanſhip and In<g ref="char:EOLhyphen"/>vention of the Devil and accurſed of God: But all the Juſt Weights, the leaſt as well as the greateſt,
+<pb n="14" facs="tcp:206839:11" rendition="simple:additions"/>are here noted to be the Lord's, and that, to ſigni<g ref="char:EOLhyphen"/>fie to us, that we muſt be <hi>ſcrupulouſly Just,</hi> and do <hi>no</hi> Unrighteouſneſs, no, not even the <hi>ſmallest</hi> Mat<g ref="char:EOLhyphen"/>ters.</p>
+            <p>Every little Fraud is a Sin, and every Sin muſt be hated, and univerſal Righteouſneſs prove our Sincerity.</p>
+            <p>The Tempter oft gets Advantage by whiſper<g ref="char:EOLhyphen"/>ing to Men, that the <hi>Sin is ſmall,</hi> and ſuch as God's Servants themſelves frequently commit. This is one of the ſubtilleſt Inſinuations of the Devil, a Net in which he catcheth innumerable Souls; for the Sin is not <hi>ſmall,</hi> in reſpect to the <hi>Guilt,</hi> which is great enough to ruin the Soul, (every Act of Fraud being really a Wilful Sin,) but ſo called with reſpect to the ſmallneſs, or inconſiderableneſs of the <hi>matter</hi> wherein ſuch Sins are committed.</p>
+            <p>
+               <hi>It is to be feared</hi> (ſays a pious Author) <hi>that more Souls periſh by theſe ſuppoſed</hi> ſmall Sins, <hi>than by the groſſest Acts of Wickedneſs.</hi> We naturally fly with greater Fear from great Dangers than from leſs. And the true Reaſon why idle Words and ſinful Thoughts are oft'ner committed than more hani<g ref="char:EOLhyphen"/>ous Sins, is, becauſe the Soul is not ſo much a<g ref="char:EOLhyphen"/>waken'd by Fear and Care to make Reſiſtance, and Love needeth the Help of Fear in this our weak Condition.</p>
+            <p>We eaſily yield to what we think <hi>little</hi> Sins, and thoſe lead us on and betray us into <hi>greater:</hi> He
+<pb n="15" facs="tcp:206839:11"/>that hath brought himſelf to take an unjuſt <hi>Penny</hi> without regret, may in time be prevail'd with to take a <hi>Purſe,</hi> when Want and Opportunity joyn together to make the Temptation ſtrong.</p>
+            <p>Covetouſneſs has no Bounds; if a Man be <hi>in</hi> for <hi>Grains</hi> and feels no Remorſe, he will quickly bribe the Balance to lie, and cheat by <hi>Ounces.</hi>
+            </p>
+            <p>When a Man is ſucceſsful in the little ways of Sinful Gain, he naturally deſires to become a Pro<g ref="char:EOLhyphen"/>ficient, and to try his skill in greater matters.</p>
+            <p>He that can dexterouſly counterfeit a <hi>Half-peny,</hi> will hardly ſtop his eager Fancy till he come to the <hi>Half-crown,</hi> nor there till he come to the <hi>Hal<g ref="char:EOLhyphen"/>ter.</hi>
+            </p>
+            <p>Thus <hi>Little</hi> Sins bring <hi>Great</hi> Puniſhments; and Injuſtice in the ſmalleſt Weights will ſink the Soul down to Hell.</p>
+            <p>Beware therefore, O young Man! of making little Tranſgreſſions, in any kind, habitual. And let every Tranſgreſſor break off his ill Cuſtom be<g ref="char:EOLhyphen"/>fore it be too ſtrongly rooted in him.</p>
+            <p>It is eaſier to check covetous Appetites at the firſt, than to ſtop them in their Courſe; for if Rea<g ref="char:EOLhyphen"/>ſon and Religion do not reſiſt them in the begin<g ref="char:EOLhyphen"/>ing, they will go on in ſpite of us: — Nothing, but the Powerful Spirit of God, (which in that wicked courſe we have no reaſon to hope for,) can reclaim us.</p>
+            <p>Let the young Man therefore, I ſay again, be
+<pb n="16" facs="tcp:206839:12"/>cautious and jealous of every little Encroachment of Sin, and ſtand upon his Guard againſt the firſt Onſets of Temptation to Injuſtice: And if he re<g ref="char:EOLhyphen"/>ſolutely bears the <hi>first Shock,</hi> he will, by God's Grace, carry the <hi>Day,</hi> and attain at laſt a Crown of Righteouſneſs, infinitly more worth than all the unjuſt Lucre of the World.</p>
+            <p>Now to Counter-balance the many Temptati<g ref="char:EOLhyphen"/>ons that entice Men to commit theſe Frauds, I ſhall endeavour, by way of <hi>Application,</hi> to lay the fore<g ref="char:EOLhyphen"/>mentioned Obligations to the ſtrict Obſervance of Commutative Juſtice more <hi>home</hi> to Men's Conſci<g ref="char:EOLhyphen"/>ences, and ſet before them the Rewards and Ter<g ref="char:EOLhyphen"/>rors of the Lord of Righteouſneſs.</p>
+            <p>You have heard by how many Titles theſe In<g ref="char:EOLhyphen"/>ſtruments of Juſtice belong to <hi>God,</hi> and now by way of plain Conſequence, or Inference, you ſhall hear more particularly what Obligations the Laws of Nature, Religion, and our Civil Conſtitution lay upon <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> to maintain theſe Ordinances of Commutative Juſtice.</p>
+            <p>And that theſe Arguments may have their due Force and Effect upon Men, I will ſet forth how every Dealer in the World ought often to lay theſe Conſiderations to Heart, and Examin his Soul by theſe Rules and Meaſures, as,</p>
+            <p>
+               <hi>First,</hi> Whether he has regarded the Natural Obligations and Eternal Reaſons of this Moral Du<g ref="char:EOLhyphen"/>ty, ſuch as theſe:</p>
+            <pb n="17" facs="tcp:206839:12"/>
+            <p>That the Nature of Man in Society claims juſt Dealing from every Man he deals with? That the God of Nature, who made Man a ſociable Crea<g ref="char:EOLhyphen"/>ture, gave him that Right? — And moreover, That the Eternal Juſtice and Righteouſneſs of that God ſhould be a Standard of our upright Dealing with Men, <hi>i. e.</hi> as our Lord is Righteous in all his Works, ſo ſhould we be in all Ours, by vertue of the Natural Relation that Servants have to their Lords. — No thinking Man can be ignorant of theſe everlaſting Reaſons of Righte<g ref="char:EOLhyphen"/>ouſneſs, we are directed by a Law within us to help and aſſiſt one another in matters of Com<g ref="char:EOLhyphen"/>merce, and that Law tells us, that as there is a Benefit accrews by the exchange of Things, ſo each Party has a right to a Share of it; that the Buyer may have the worth of his Price, and be thereby furniſhed with ſuch Conveniencies of Life as he wants, and the Seller may have the full worth of his Commodity; otherwiſe, inſtead of anſwering the great Deſign of Society, which was, to be mutually helpful one to another, we become cruel Oppreſſors of our Brethren.</p>
+            <p>Thus we are to conſider that the <hi>Great Balance</hi> of <hi>Nature</hi> gives every Man his due, and equally divides the Profits and Advantages of our Traf<g ref="char:EOLhyphen"/>fique: And that Man who is not contented with his Share, but ingroſſes all the Profits of Exchange to himſelf, <q rend="inline">is rather a <hi>Wen</hi> of the Body Politic,
+<pb n="18" facs="tcp:206839:13"/>(as Dr. <hi>Scot</hi> well expreſſeth it,) that draweth all the Nouriſhment to himſelf, and ſtarveth the neighbouring Parts, than a Regular Member that contenteth itſelf with a proportionate Share, and gladly permitteth his Fellow-members to live and thrive as well as he.</q>
+            </p>
+            <p>The Heathens, who attended to theſe Moral Obligations, needed no other Laws of Juſtice; they praiſed it in their Sayings, practiſed it in their Dealings, and puniſhed the Tranſgreſſors of it.</p>
+            <p>And what a Reproach is this to ſome Chriſtian Profeſſors, who ſeem to have put off the Nature of <hi>Men,</hi> while they make profeſſion of Faith as <hi>Chriſtians,</hi> and have as little Regard to Moral E<g ref="char:EOLhyphen"/>quity, as if it was no part of our Religion.</p>
+            <p>In truth, ſuch Men are ſo far from Religion, that they are not honeſt <hi>Heathens</hi> yet; the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> which knew not God, ſhall riſe up in Judg<g ref="char:EOLhyphen"/>ment againſt them, and condemn them: It was pardonable <hi>Superſtition</hi> for <hi>Heatheniſh Ignorance</hi> to pay Divine Honour to the <hi>Goddeſs</hi> of <hi>Juſtice;</hi> but for <hi>Chriſtian Knowledg</hi> to have Hand and Heart of<g ref="char:EOLhyphen"/>fered up, as it were, in Sacrifice to the <hi>unrighteous Mammon,</hi> is abominable Idolatry; Their Wor<g ref="char:EOLhyphen"/>ſhip terminated in <hi>Heaven,</hi> but We fall down and worſhip the <hi>Earth.</hi>
+            </p>
+            <p>Again, Let every Dealer further conſider in the ſecond Place, that as Injuſtice is repugnant to the Principles of the <hi>Light of Nature,</hi> ſo likewiſe
+<pb n="19" facs="tcp:206839:13"/>(as has been proved) to the <hi>Poſitive Laws</hi> of God revealed to us from Heaven.</p>
+            <p>That Divine Word which declares, that the Weights and Balance belong to <hi>God,</hi> does plainly declare, that juſt Dealing belongs to <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> for whoſe ſake theſe Inſtruments were ordained.</p>
+            <p>All the Laws of Heaven are <hi>Just</hi> as well as <hi>Ho<g ref="char:EOLhyphen"/>ly:</hi> As Chriſt came not to deſtroy the Moral Laws delivered by <hi>Moſes;</hi> ſo <hi>Moſes</hi> made no Alterati<g ref="char:EOLhyphen"/>on as to the Laws of Nature; <hi>Moſes</hi> confirmed 'em all, and Chriſt improved 'em all, and both ſet a particular Eſtimate upon Juſtice.</p>
+            <p>And how can it be otherwiſe, ſince Juſtice is a Ray, nay, a mighty Beam of Divinity, as E<g ref="char:EOLhyphen"/>ternal as the Godhead, as Immutable and Inde<g ref="char:EOLhyphen"/>lible as the Image of God in the Rational World, which tho' much defaced in ſome Individuals, yet preſerves its Luſtre over the Univerſe, and will for ever determin thoſe Men to deal juſtly with one a<g ref="char:EOLhyphen"/>nother, who attend to the Dictates of Nature, or the Laws of Religion; and therein to thoſe Eter<g ref="char:EOLhyphen"/>nal Reaſons which have determin'd God to deal juſtly with us. So that <hi>to take away Juſtice,</hi> (as one obſerves) <hi>is to take the</hi> Sun <hi>out of the World, and reduce all things to a blind Confuſion.</hi>
+            </p>
+            <p>All which conſidered, is it not a Wonder that there ſhould be Men, zealouſly profeſſing Chriſti<g ref="char:EOLhyphen"/>anity, who look upon Honeſty and Juſtice as the <hi>Beggerly Elements</hi> of Religion? A ſort of Heathen
+<pb n="20" facs="tcp:206839:14"/>Vertue belonging to Carnal and meer Moral Men, that are utterly unacquainted with the Spirit and Power of Godlineſs: Yet ſuch there are, as a late Great Divine excellently deſcribes 'em, <hi>Who in the room of Juſtice, and the like Moral Vertues, have foiſted in a ſort of Spiritual Religion, as they call it, which conſiſteth in a certain Model of Converſion and Regeneration,</hi>
+               <note place="margin">
+                  <hi>Dr.</hi> Scot <hi>Vol.</hi> 4.</note> 
+               <hi>that is made up of nothing but a meer fanciful Train of Dejections and Triumphs; after which ſuppoſed Regeneration, all their After-religi<g ref="char:EOLhyphen"/>on is nothing but an idle</hi> Leaning <hi>on Jeſus Christ; and whilst they ſhould be governing their Wills, their Words, and Actions, by the Eternal Rules of Juſtice and Goodneſs, they are employed, as they think, in an higher Diſpenſation, in forming odd Schemes of Spiri<g ref="char:EOLhyphen"/>tual Experiences, and attending to the Inward Whi<g ref="char:EOLhyphen"/>ſpers, and Incomes, and Withdrawings of the Spirit of God.— But how dangerous a Miſtake is it, for Men to take up with any Religion which does not principal<g ref="char:EOLhyphen"/>ly inſist upon the Eternal Laws of Morality? For tho' Juſtice in our Dealings with Men, will never ſingly recommend us to God, unleſs it be joyned with Mercy, Sobriety, and Godlineſs: yea, tho' all theſe together will never recommend us to God, unleſs their Imperfe<g ref="char:EOLhyphen"/>ctions be purged and expiated by the All-ſufficient Me<g ref="char:EOLhyphen"/>rit of our Bleſſed Saviour; yet without Juſtice and Ho<g ref="char:EOLhyphen"/>neſty all our Religion is a</hi> Damnable Cheat, <hi>a Peice of</hi> Pious Fraud, <hi>and All the Merit of our Saviour will be as inſignificant to us, as it is to the Devils, or damned
+<pb n="21" facs="tcp:206839:14"/>Ghoſts. For his Merit is no Refuge for</hi> Religious Knaves, <hi>his Wounds no Sanctuary for Spiritual Cheats or Lyars and Oppreſſors: For ſuch Perſons as theſe to ſhelter themſelves in our Saviour's Propitiation, is to Prophane and Deſacrate it, and make thoſe</hi> Vocal Wounds <hi>to accuſe them which were made to plead for them.</hi>
+            </p>
+            <p>In vain, my Brethren, are all Pretences to Re<g ref="char:EOLhyphen"/>ligious <hi>Purity,</hi> while your Hands are defiled with unjuſt Practices: <hi>Shall I count them</hi> pure,
+<note place="margin">
+                  <hi>Mic.</hi> 6.11.</note> ſays the Prophet, <hi>with wicked Balances, and with the Bag of deceitful Weights?</hi>
+            </p>
+            <p>Nay, in vain is Chriſt dead for us, if we are not redeemed from unrighteous Converſation: It is St. <hi>Paul</hi>'s Doctrin,
+<note place="margin">
+                  <hi>Tit.</hi> 2.14.</note> 
+               <hi>For this end Christ gave him<g ref="char:EOLhyphen"/>ſelf for us, that he might Redeem us from</hi> all Iniqui<g ref="char:EOLhyphen"/>ty, <hi>and purifie unto himſelf a peculiar People, zealous of</hi> good works.</p>
+            <p>Thus that ſacred Book of Religion, which de<g ref="char:EOLhyphen"/>clares, That the <hi>Inſtruments</hi> of Juſtice belong to <hi>God,</hi> declares, that the <hi>Exerciſe</hi> of it belongs to <hi>
+                  <g ref="char:V">Ʋ</g>s;</hi> without which we neither anſwer the Ends of our Creation nor Redemption. And ſo I go on, in the</p>
+            <p>Third Place, To urge our Obligations to the mutual Offices of Juſtice, from our being ſubject to Government, and bound by the Laws of the Land of our Nativity.</p>
+            <p>Thoſe Laws which entruſt the King, as the <hi>Mi<g ref="char:EOLhyphen"/>niſter
+<pb n="21" facs="tcp:206839:15"/>of God,</hi> with the Standards of Juſtice, do re<g ref="char:EOLhyphen"/>quire that Subjects do Juſtice both to the King and to one another: Thoſe Laws which impower every Subject to demand Juſtice, do ſurely exact Reciprocal Juſtice from every Subject again; this is <hi>Civil Righteouſneſs</hi> without which it is impoſſi<g ref="char:EOLhyphen"/>ble any Society ſhould be happy or ſubſiſt long.</p>
+            <p>Nay, ſo great is the force of it, 'That, as <hi>Tully</hi> well obſerves, <q rend="inline">common Highway-men, and thoſe that ſupport themſelves only upon Rapin and Violence, cannot yet ſubſiſt without it, inſo<g ref="char:EOLhyphen"/>much that if one Thief does but defraud ano<g ref="char:EOLhyphen"/>ther of the ſame Troop, he is expel'd the Socie<g ref="char:EOLhyphen"/>ty, as a Man of no Faith; and if the Captain of the Band ſhews but any Partiality in the Diſtri<g ref="char:EOLhyphen"/>bution of the Booty, he is at leaſt Deſerted by his Party, if it do not alſo coſt him his Life; for there is a Diſcipline even among Pirats them<g ref="char:EOLhyphen"/>ſelves, and their Laws of private Juſtice are du<g ref="char:EOLhyphen"/>ly executed and obeyed.</q>
+            </p>
+            <p>Now ſince this kind of Juſtice is ſo ſacred, even among <hi>Thieves</hi> and <hi>Robbers,</hi> with how much great<g ref="char:EOLhyphen"/>er Reverence ought it to be obſerved in a <hi>Regular</hi> and well-ordered <hi>Government,</hi> ſeeing that, of itſelf alone, it is able to advance and eſtabliſh a <hi>Piratic</hi> Power without any other Support.</p>
+            <p>The <hi>Pythian</hi> Oracle deliver'd, concerning <hi>Sparta,</hi> this remarkable Sentence, <hi>That it was not in the Power of anything in the World, but</hi> Avarice <hi>and</hi> In<g ref="char:EOLhyphen"/>juſtice <hi>to deſtroy that Common-wealth.</hi>
+            </p>
+            <pb n="22" facs="tcp:206839:15"/>
+            <p>Now tho' other Sins may (and do threaten to) bring heavy Judgments upon this Land, yet <hi>this alone</hi> will effectually overthrow the Beſt of Govern<g ref="char:EOLhyphen"/>ments, and like that <hi>Accurſed Thing,</hi> trouble our <hi>Iſrael,</hi> ſo that we ſhall not be able <hi>to ſtand before our Enemies.</hi>
+            </p>
+            <p>While we therefore pray that our Parliament may eſtabliſh <hi>Peace and Happineſs,</hi> let us maintain <hi>Truth and Juſtice,</hi> as the beſt and ſureſt Foundati<g ref="char:EOLhyphen"/>ons upon which the Peace and Tranquility both of Church and State muſt be ſetled. — It is a Mockery to pray to Heaven for a <hi>National Eſta<g ref="char:EOLhyphen"/>bliſhment,</hi> while there are ſo many <hi>Perſonal Cor<g ref="char:EOLhyphen"/>ruptions</hi> of Private as well as Public Juſtice, which two parts of Juſtice carry the ſame Correſpon<g ref="char:EOLhyphen"/>dence to one another as <hi>Cement</hi> to the <hi>Foundation.</hi> Every good Government is <hi>founded</hi> upon Public Juſtice, but Private Equity is the <hi>Cement</hi> that faſtens the ſeveral Parts together, and conſolidates the whole Fabrick.</p>
+            <p>Thus Natural Reaſon, Religion, and Civil Po<g ref="char:EOLhyphen"/>licy, all with one Voice declare the Neceſſity of juſt Dealing among Men, as well as God's Pro<g ref="char:EOLhyphen"/>priety in thoſe Inſtruments of Juſtice, which his Name has hallowed for our Uſe.</p>
+            <p>
+               <hi>A just Weight and Balance are the Lord's.</hi> — And that we may uſe and manage them with ſcrupu<g ref="char:EOLhyphen"/>lous Integrity, in the ſmalleſt as well as the great<g ref="char:EOLhyphen"/>eſt Matters, the Royal Wiſe-man further adds, ALL <hi>the Weights of the Bag are his Work.</hi>
+            </p>
+            <pb n="24" facs="tcp:206839:16"/>
+            <p>And how great Reaſon there is for this Cauti<g ref="char:EOLhyphen"/>on, we may gather from that notable Obſerva<g ref="char:EOLhyphen"/>tion, in the <hi>whole Duty of Man: — In this whole Buſineſs of Traffic,</hi> ſays that juſtly admired Author, <hi>there are ſo many Oppertunities of Deceit, that a Man had need fence himſelf with a very firm Reſolution, nay, Love of Juſtice, or he will be in danger to fall under Temptation.</hi>—For, as the Wiſe-man ſpeaks, <hi>Eccluſ.</hi> 27.2. <hi>As a Nail ſticks fast betwixt the Joyn<g ref="char:EOLhyphen"/>ings of the Stones; ſo does Sin ſtick cloſe between</hi> Buy<g ref="char:EOLhyphen"/>ing <hi>and</hi> Selling. <q rend="inline">It is ſo interwoven with all Trades, ſo mixt with the very firſt Principles and Grounds of them, that it is taught together with them, and ſo becomes part of the Art; ſo that he is now a-days ſcarce thought fit to ma<g ref="char:EOLhyphen"/>nage a Trade that wants it, while he that hath moſt of this Black Art of Defrauding, applauds and hugs himſelf, nay, perhaps boaſts to others, how he hath over-reacht his Neighbour;</q> but there is neither Chriſtianity, nor Humanity in all this.</p>
+            <p>Therefore let me ſeriouſly Exhort all that hear me this day, (and I wiſh that my Exhortation might reach not only the Ears, but the Hearts of all the People of this Land,) That they would make it, as it really is, Matter of Conſcience, to be exact, ſtrict, and ſcrupulous in all Points of Juſtice, and that</p>
+            <pb n="25" facs="tcp:206839:16" rendition="simple:additions"/>
+            <list>
+               <item>To all Perſons,</item>
+               <item>In all Things, and</item>
+               <item>At all Times.</item>
+            </list>
+            <p>
+               <hi>First, To all Perſons:</hi> To the Simple as well as the Skilful, to the Poor as to the Rich, without any Partiality or Reſpect to Perſons; only reſpect the Weakneſs and Neceſſities of your poor Bre<g ref="char:EOLhyphen"/>thren, and make ſome Charitable Allowances ac<g ref="char:EOLhyphen"/>cordingly. Juſtice is required in all Caſes, but a <hi>kind Partiality</hi> may be indulged in this. — How<g ref="char:EOLhyphen"/>ever, beware of being <hi>
+                  <g ref="char:V">Ʋ</g>njust,</hi> where you ſhould be <hi>Charitable;</hi> impoſe not on the <hi>Weak Man's Ig<g ref="char:EOLhyphen"/>norance,</hi> nor take Advantage of the <hi>Poor Man's Neceſſity;</hi> make not the One <hi>Buy</hi> his <hi>Folly,</hi> nor the Other <hi>Pay dear</hi> for his <hi>Poverty</hi> and <hi>Want.</hi> 
+               <q rend="inline">This adds Inhumanity to Injuſtice, Oppreſſion to Miſery. — If God has given you more Skill and Underſtanding than your Neighbour, Ju<g ref="char:EOLhyphen"/>ſtice requires that you help him with it, and uſe him not only Juſtly, but Ingeniouſly, as one that repoſeth a Truſt in you, and caſteth himſelf up<g ref="char:EOLhyphen"/>on your Honeſty.</q>
+            </p>
+            <p>Again, If a poor Man be driven by Neceſſity to Sell his Wares, Juſtice requires that you give him the ſame Price that you would do, ſuppoſing that he ſtood in no more need of your Mony than you do of his Commodity.</p>
+            <p>Beware of the hainous Crime conmdemned by the Prophet, of <hi>Buying the Poor for Silver,</hi>
+               <note place="margin">
+                  <hi>Amos.</hi> 8.6.</note> 
+               <hi>and the Needy for a pair of Shooes.</hi>
+            </p>
+            <pb n="26" facs="tcp:206839:17"/>
+            <p>And, on the other hand, let not the Poor think themſelves <hi>priviledged,</hi> by their Neceſſities, to O<g ref="char:EOLhyphen"/>ver-reach and Defraud their Rich Neighbours, but rather, by their Diligence and Patience, by their Modeſty and Integrity, recommend their Condi<g ref="char:EOLhyphen"/>tion to the Mercy of God, and the Charity of all good Men.</p>
+            <p>The Richeſt Man hath a Right to conſcionable Dealing as well as the Pooreſt Beggar, only with this Difference, That to the Poor, extremity of Juſtice is unmerciful, which to the the Rich Per<g ref="char:EOLhyphen"/>ſon may perhaps be innocent, becauſe it is within the <hi>Latitude of Juſtice,</hi> and he ſtands not in need of <hi>Mercy.</hi>
+            </p>
+            <p>In a word, In the compaſs of Lawful Gain, which is allowed to Tradeſmen; uſe Favour to<g ref="char:EOLhyphen"/>wards the Neceſſitous, Ingenuity towards the Ig<g ref="char:EOLhyphen"/>norant, and Moderation, at leaſt juſt Dealing, to<g ref="char:EOLhyphen"/>wards all Men.</p>
+            <p>
+               <hi>Secondly,</hi> Be ſtrictly Juſt as becomes honeſt Men, and conſcientious Chriſtians <hi>in all Things,</hi> as well as <hi>to all Perſons;</hi> ſubſtract not the <hi>least</hi> from juſt Mea<g ref="char:EOLhyphen"/>ſure; detain not the leaſt Grain of Weight, for the leaſt as well as the greateſt are the Lord's. For this Reaſon Weights are made of <hi>Stones,</hi> and other hard <hi>Mettals,</hi> that by <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> they may not eaſily be <hi>diminiſh'd.</hi>
+            </p>
+            <p>Many <hi>have ſinned for a ſmall matter,</hi> ſays the Son of <hi>Sirach; For a piece of Bread,</hi> (A poor Re<g ref="char:EOLhyphen"/>ward!)
+<pb n="27" facs="tcp:206839:17"/>
+               <hi>ſome Men will Tranſgreſs.</hi> — 'Tis a la<g ref="char:EOLhyphen"/>mentable thing to obſerve, how ſome Perſons will diſſemble, conceal, equivocate, deny, nay, lie and ſwear too, and all to skrew a little unjuſt Gain from their Neighbour, and that ſometimes ſo <hi>very little,</hi> 'That (as the Excellent Author of the <hi>Whole Duty of Man</hi> obſerves) <q rend="inline">'tis a Miracle that any Man who thinks he hath a Soul, can ſet it at ſo miſerable and contemptible a <hi>Price.</hi>
+               </q>
+            </p>
+            <p>But I have obſerved to you before, both what Temptation and Danger there is in theſe <hi>Little Sins,</hi> and ſhall now only add, this ſhort Advice, as a Preſervative from Danger: In all Intercourſe with others, do not do all which you may lawfully do; reſerve ſome little in your own Power; keep not only within the Limits of lawful Gain, but at ſome Diſtance from Temptation: If you go to the utmoſt <hi>Verge</hi> of what is Lawful, you will be in danger to tread upon the <hi>Skirts</hi> of Injuſtice: Con<g ref="char:EOLhyphen"/>ſider not therefore how far the Laws of Equity allow you to go, but how far you may go with ſafety: Conſider that there is no Medium betwixt the utmoſt Extent of Juſtice, and the Confines of Sin, and that there is a dangerous Precipice joyns upon the Borders of Chriſtian Liberty. Watch therefore, and Pray likewiſe, that ye enter not into Temptation: <hi>Abhor that which is evil, cleave to that which is good.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> and <hi>Laſtly,</hi> Maintain your Integrity and
+<pb n="28" facs="tcp:206839:18"/>juſt Dealing <hi>in all Times,</hi> in a difficult and unſet<g ref="char:EOLhyphen"/>led, as well as a ſteady courſe of all Things: — Do not make your Fortune in Calamitous Times, nor Delight to <hi>fiſh in troubled Waters.</hi> When the Nation labours under any unhappy Grievance, and the <hi>Body Politic,</hi> through Wars, or other evil Acci<g ref="char:EOLhyphen"/>dents, is ſick and ſore wounded; be not like <hi>Ill Humours</hi> in Natural Bodies, which run all to the <hi>part affected,</hi> and cauſe greater Inflammations; do not make private Advantage of public Miſeries, but let every Man, in his Station, apply his heal<g ref="char:EOLhyphen"/>ing Hand, by mixing Mercy with Juſtice in all his Dealings.</p>
+            <p>That I may the better be underſtood in this point, Let it be conſidered, that as the Iniquities of <hi>Clip<g ref="char:EOLhyphen"/>pers</hi> has brought this Kingdom into a difficult and confuſed State, as to the Coin; ſo I need not tell you thoſe Difficulties lye heavieſt upon poor <hi>Tradeſmen</hi> and <hi>Labourers,</hi> and I ſcruple not to ſay, That they who allow the Poor <hi>leſs</hi> than their <hi>Coin</hi> is worth, which is brought to the <hi>Balance,</hi> are themſelves guilty of <hi>Clipping, in foro Conſcientiae,</hi> In the Court of Equity, and of Conſcience, and before the Righteous God, becauſe, in Effect, they <hi>diminiſh</hi> the juſt Value of it; only here is the Dif<g ref="char:EOLhyphen"/>ference, That <hi>Clipping</hi> is properly a Robbery of the <hi>Public, This</hi> of <hi>private</hi> People; <hi>That</hi> is done with<g ref="char:EOLhyphen"/>out any deſign of Injury to any private Perſon, and ſo pretended (though without Reaſon) to be no
+<pb n="29" facs="tcp:206839:18"/>Sin, but <hi>the Sin</hi> of falſe Weights and unjuſt Ba<g ref="char:EOLhyphen"/>lances was never diſputed.</p>
+            <p>How can we diſpute the Sinfulneſs of <hi>That,</hi> of which God has expreſly declared his Deteſtation again and again? It is often condemned in this <hi>Book,</hi> by a terrible Word, and called an ABOMI<g ref="char:EOLhyphen"/>NATION, <hi>i. e.</hi> ſuch an Evil as God Deteſts with a ſingular Indignation, for Idols are called by the ſame curſed Name, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Abominable Things.</hi>
+            </p>
+            <p>On the contrary, a juſt Weight is ſaid to be his <hi>delight,</hi> and he has promiſed an acceptable Bleſſing, even, <hi>Length of days,</hi> to the obſervers of it, <hi>Deut.</hi> 25.15. <hi>A perfect and just Weight ſhalt thou have, that thy Days may be lengthned, in the Land which the Lord thy God giveth thee.</hi>
+            </p>
+            <p>I will conclude with a few Scriptures, which ſhew how this Duty is hedged about with Re<g ref="char:EOLhyphen"/>wards and Puniſhments.</p>
+            <p>And <hi>First, Hear this, O ye that Swallow up the Needy, falſifying the Balances by Deceit!</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 8.4.</note> 
+               <hi>Shall not the Land tremble for this, and every One mourn that dwelleth therein? And it ſhall come to paſs in that day, ſaith the Lord,</hi> obſerve this Terrible Threat<g ref="char:EOLhyphen"/>ning, That <hi>I will cauſe the</hi> Sun <hi>to go down at</hi> Noon, <hi>and I will darken the</hi> Earth <hi>in the clear</hi> Day: <hi>I will turn your</hi> Feaſts <hi>into</hi> Mourning, <hi>and your</hi> Songs <hi>into</hi> Lamentation: <hi>I will bring up Sackcloth upon your Loyns, and Baldneſs upon every Head, and
+<pb n="30" facs="tcp:206839:19"/>I will make it as the Mourning of an</hi> Only Son, <hi>and the End thereof as a bitter Day.</hi> And (which is moſt Diſmal of all) <hi>I will ſend, ſays the Lord, a</hi> Famine <hi>into that Land, not a Famine of Bread, nor a Thirst for Water, but of</hi> Hearing the Word of the Lord.</p>
+            <p>And to ſhew that an Eſtate got by theſe Injuri<g ref="char:EOLhyphen"/>ous Means ſhall not laſt long, nor afford much Enjoyment; hear again what the Prophet <hi>Micah</hi> declares,
+<note place="margin">
+                  <hi>Meca.</hi> 6.</note> Chap. 6. <hi>Are there yet Treaſures of Wickedneſs in the Houſe of the Wicked, and the ſcant Meaſure that is abominable? Shall I count them pure with the wicked Balances?</hi> &amp;c. —<hi>Thy Rich Men are full of Violence. —Therefore will I make thee ſick in ſmiting thee. —Thou ſhalt</hi> eat, <hi>but not be</hi> ſatisfied: <hi>Thou ſhalt</hi> ſow <hi>but not</hi> reap, <hi>&amp;c.</hi> — But on the contrary, <hi>The wealth of the Sinner is laid up for the just,</hi> ſays <hi>Solomon,</hi> and <hi>he that hath clean hands,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 13.22.</note> &amp;c. <hi>ſhall aſcend into the Hill of the Lord, where the Righteous live for evermore: Their Reward alſo is with the Lord,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 24.</note> 
+               <hi>and the care of them with the Most High.</hi> — To which Divine Care and Pro<g ref="char:EOLhyphen"/>tection, I commend your Souls and Bodies, that they may be preſerved blameleſs, till the coming of our LORD JESUS CHRIST.</p>
+            <p>And now, Lord, we beſeech thee to grant thy People Grace to withſtand the Temptations of the World, the Fleſh, and the Devil, and with pure Hearts, <hi>Hands,</hi> and Minds to follow thee, the only GOD, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206839:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
